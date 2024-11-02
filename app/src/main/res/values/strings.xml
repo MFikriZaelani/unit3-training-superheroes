@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Pahlawan Super Indonesia</string>
+    <string name="hero1">Super Dede</string>
+    <string name="description1">Pahlawan Sarung</string>
+    <string name="hero2">Gundala</string>
+    <string name="description2">Manusia Petir</string>
+    <string name="hero3">Gatot Kaca</string>
+    <string name="description3">Satria Dewa</string>
+    <string name="hero4">Sri Asih</string>
+    <string name="description4">Wanita Selendang</string>
+    <string name="hero5">Virgo And The Sparklings</string>
+    <string name="description5">Geng Pahlawan Remaja</string>
+    <string name="hero6">Wiro Sableng</string>
+    <string name="description6">Pendekar Kapak Maut Naga</string>
+</resources>
